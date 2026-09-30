@@ -2,13 +2,6 @@ package lecture.section02;
 
 public class Application2 {
 
-
-
-}
-package lecturte.section02.variable;
-
-public class Application2 {
-
     public static void main(String[] args) {
         /*
          * 변수를 사용하는 방법
