@@ -1,0 +1,26 @@
+package lecture.section01;
+
+public class Application1 {
+
+    public static void main(String[] args) {
+
+        // 숫자 형태의 값
+        System.out.println(123); //정수형
+        System.out.println(1.23); // 실수형
+
+        // 문자 형태의 값
+        System.out.('a' ); //문자형
+        System.out.('' ); //비어있으면 안됨
+        System.out.('ab' ); //두개 이상의 문자는 안됨
+
+        //문자열 형태의 값
+        System.out.println("안녕하세요")
+        System.out.println("a");
+        System.out.println("");
+        System.out.println("a");
+        System.out.println("a");
+
+
+
+    }
+}
